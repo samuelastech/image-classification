@@ -7,10 +7,7 @@ name = "pypi"
 jupyterlab = "*"
 opencv-python = "*"
 numpy = "*"
-pandas = "*"
-seaborn = "*"
 matplotlib = "*"
-sklearn = "*"
 tensorflow = "*"
 
 [dev-packages]
