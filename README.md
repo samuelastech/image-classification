@@ -17,7 +17,7 @@ Install the dependencies using:
 ```shell
 pipenv install
 ```
-Open Jupyter Notebook with
+Open Jupyter Notebook with:
 ```shell
 jupyter-lab
 ```
